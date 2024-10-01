@@ -3,7 +3,7 @@ local M = {}
 
 -- UI configuration
 M.ui = {
-  theme = "gatekeeper",
+  theme = "tokyodark",
   transparency = true,
 }
 
